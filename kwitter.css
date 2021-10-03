@@ -1,0 +1,20 @@
+#background{
+    text-align: center;
+    background-color: rgb(208, 255, 0);
+    border-radius: 10px;
+}
+#login_div{
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 20px;
+    background-color: rgb(255, 115, 0);
+}
+#heading_1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+}
+#user_name{
+    width: 800px;
+    margin-left: 120px;
+    margin-right: 190px;
+}
